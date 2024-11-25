@@ -1,2 +1,6 @@
 # Meu Repositório de Autenticações - DIO
-Repositório de testes de autenticacoes
+
+Repositório de testes de autenticacoes.
+1. Autenticação via nome de usuário e senha.
+2. Autenticação via Token de acesso pessoal.
+
